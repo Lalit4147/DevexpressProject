@@ -17,7 +17,7 @@ namespace DevexpressProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new DesignerForm1());
+            Application.Run(new Form1());
         }
     }
 }
